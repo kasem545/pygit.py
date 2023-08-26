@@ -1,2 +1,9 @@
 # pygit.py
-pygit is a cli that can download github sub-folders/sub-directories resources
+
+pygit is a cli that can download github subfolder/subdirectories resources
+
+#Run
+```
+python3 pygit.py
+Enter the GitHub repository URL:   
+```
